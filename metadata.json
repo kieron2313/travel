@@ -1,0 +1,10 @@
+{
+  "name": "Budget Trip Planner",
+  "description": "A modern, AI-powered travel search engine that plans your perfect trip within budget.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
